@@ -14,7 +14,7 @@
                 let message = '';
                 // Controleer of de URL overeenkomt met "wss://game-eu-9.vanis.io/5001"
                 if (args[0] === "wss://game-eu-9.vanis.io/5001") {
-                    console.log('Je bent FFA 1 gejoined');
+                    console.log('Je bent FFA 1 gejoined Gefeliciteerd!');
                     message = 'You joined FFA 1';
                 } else if (args[0] === "wss://game-eu-9.vanis.io/5002") {
                     console.log('You joined Instant 1');
